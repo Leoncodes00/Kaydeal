@@ -1,0 +1,53 @@
+@import "https://use.fontawesome.com/releases/v5.5.0/css/all.css";
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: white;
+}
+
+#settings-icon {
+  color: white;
+  position: relative;
+  right: 22%;
+  margin-top: 19px;
+}
+
+li h3 {
+  right: 1340%;
+  position: relative;
+  color: white;
+  font-size: 20px;
+  font-family: "Lato", sans-serif;
+}
+
+html {
+  font-family: "Lato";
+  font-size: 18px;
+  text-rendering: optimizeLegibility;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #7b61ff;
+}
+
+.header-nav ul li {
+  margin: 15px;
+  position: relative;
+  float: left;
+  left: 68%;
+}
+
+li a {
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+  font-family: "Lato", sans-serif;
+}
